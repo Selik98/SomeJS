@@ -55,6 +55,6 @@ let concesionaria = {
     }
 }
 
-// Ves que esta modificado??
+console.log ("Esta vez modifique el archivo V2.")
 
 
